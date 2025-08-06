@@ -16,26 +16,7 @@
 
 ---
 
-### 🛠 Tech Stack
-
-- **Languages**: Python, JavaScript/TypeScript, C/C++
-- **Backend**: FastAPI, Flask, Express
-- **Frontend**: React, Next.js (App Router), TailwindCSS
-- **Database**: MongoDB, PostgreSQL
-- **DevOps**: Docker, GitHub Actions, NGINX, Raspberry Pi clusters
-- **Hardware/IoT**: ESP32, Arduino, Raspberry Pi, 3D Printing
-- **Cloud**: AWS (studying for certifications), Azure DevOps (used in projects)
-
----
-
 ### 📫 Contact
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jaeung-jang/)
 - ✉️ woddnckato@gmail.com
-
----
-
-### ⚡ Fun Facts
-
-- 🧠 INTP | Always thinking about the next weird project to build
-- 🛠 Prefers "I built this from scratch" over "I found a good library"
